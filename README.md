@@ -1,7 +1,7 @@
 ![nublia](./img/nublia_logo.png)
 # data science playground
 
-![português](./img/flag_round_br.png =16x16) Esta página também está
+![português](./img/flag_round_br.png) Esta página também está
 disponível em [português](LEIAME.md).
 
 [en] The data science playground is a public repository for data science

@@ -1,13 +1,13 @@
 ![nublia](./img/nublia_logo.png)
 # data science playground
 
-![english](./img/flag_round_uk.png  =16x16) This page is also available in
+![english](./img/flag_round_uk.png) This page is also available in
 [English](README.md).
 
 [pt] Este é nosso repositório público, berçário de nossos projetos
 relacionados a ciência de dados.
 
-Este programa é um software livre; você pode redistribuí-lo e/ou 
+Este programa é um software livre; você pode redistribuí-lo e/ou
 modificá-lo sob os termos da Licença Pública Geral GNU como publicada
 pela Fundação de Software Livre (FSF); na versão 3 da Licença,
 ou (a seu critério) qualquer versão posterior.

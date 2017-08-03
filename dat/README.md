@@ -1,7 +1,7 @@
 ![nublia](./img/nublia_logo.png)
 # data science playground data
 
-![português](./img/flag_round_br.png =16x16) Esta página também está
+![português](./img/flag_round_br.png) Esta página também está
 disponível em [português](LEIAME.md).
 
 [en] This folder contains all data files used in samples of this repository.

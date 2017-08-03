@@ -1,7 +1,7 @@
 ![nublia](./img/nublia_logo.png)
 # data-science playground
 
-![english](./img/flag_round_uk.png  =16x16) This page is also available in
+![english](./img/flag_round_uk.png) This page is also available in
 [English](README.md).
 
 [pt] Esta pasta contém os arquivos de dados utilizados nos exemplos deste
