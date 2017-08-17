@@ -1,0 +1,156 @@
+Boletins de ocorrencia disponiveis em formato digital da Grande Sao Paulo -- 2016
+=================================================================================
+
+
+Para interpretação dos dados é importante observar as seguintes informações:
+
+* Os dados constantes da resposta foram extraídos do sistema de Registro
+  Digital de Ocorrências (R.D.O.). Com relação ao sistema R.D.O. é importante
+  esclarecer que sua implantação foi concretizada de modo gradual nas diversas
+  unidades policiais do Estado, tendo sua abrangência alcançado todos os
+  municípios apenas a partir do ano de 2010. Também deve ser destacado que as
+  tabelas e campos de preenchimento deste sistema são objetos de constante
+  aperfeiçoamento a fim de adaptar-se às alterações nas dinâmicas criminais
+  observadas no Estado ou propiciar melhoria no atendimento do serviço
+  policial.
+* Para entendimento do conteúdo de cada campo, segue a planilha denominada 
+  Dicionário de Dados.
+* A inclusão ou alteração de um campo e respectivos períodos de implementação
+  podem influenciar diretamente nos critérios de pesquisa executados, não
+  havendo na base fornecida o tratamento metodológico necessário para
+  qualificá-las como dados estatísticos oficiais.
+* O número total de boletins de ocorrências registrados sob uma natureza 
+  criminal não representa a estatística criminal do Estado ou de determinada
+  área ou região. A estatística em São Paulo é contabilizada de acordo com os
+  procedimentos estabelecidos pela Resolução SSP nº 160/01 de 08 de maio de
+  2001, que criou o Sistema Estadual de Coleta de Estatísticas Criminais e
+  pode ser consultada através do endereço eletrônico www.ssp.sp.gov.br.
+* Cada linha constante na tabela registra os dados de uma pessoa, natureza ou
+  objeto relacionado no boletim. Assim, um boletim que possua a identificação
+  de mais de uma pessoa, natureza ou objeto (a depender da pesquisa 
+  solicitada) terá os dados da ocorrência multiplicados pelos indexadores
+  solicitados, ou seja, várias linhas podem se referir ao mesmo boletim. Para
+  conclusões quanto as quantidades de ocorrências é necessária exclusão das 
+  duplicidades por meio dos campos:
+  * NOME_DELEGACIA
+  * ANO_BO
+  * NUM_BO
+* Frise-se que ao cidadão é facultado o registro da ocorrencia em qualquer
+  Delegacia de Polícia do Estado, sendo certo que cerca de 60% das ocorrencias
+  são registradas fora de sua circunscrição, ou seja, local de ocorrencia. 
+  Assim, para a análise dos dados obtem-se resultados diferentes sobre 
+  delegacia de registro e delegacia de circunscrição.
+* Os campos que podem levar a identificação da pessoa são protegidos de acordo
+  com o art 31 da Lei de Acesso a Informação.
+
+
+Metodologia específica
+----------------------
+
+
+Acesso a históricos
+^^^^^^^^^^^^^^^^^^^
+
+Em virtude das características das informações contidas nos históricos, que 
+tem por finalidade principal a coleta de subsídios para o início das 
+investigações pelas autoridades policiais, o presente pleito é disponibilizado
+sem os históricos, pois para acesso aos históricos deverá ser atendido o 
+previsto no art. 31 da Lei nº 12.527, de 18 de novembro de 2011, em especial
+o §3º:
+
+Art. 31
+^^^^^^^
+
+O tratamento das informações pessoais deve ser feito de forma transparente e
+com respeito à intimidade, vida privada, honra e imagem das pessoas, bem como
+às liberdades e garantias individuais.
+
+§ 1º --  As informações pessoais, a que se refere este artigo, relativas à 
+intimidade, vida privada, honra e imagem:
+ I - terão seu acesso restrito, independentemente de classificação de sigilo e
+     pelo prazo máximo de 100 (cem) anos a contar da sua data de produção, a
+     agentes públicos legalmente autorizados e à pessoa a que elas se
+     referirem; e
+II - poderão ter autorizada sua divulgação ou acesso por terceiros diante de
+     previsão legal ou consentimento expresso da pessoa a que elas se 
+     referirem.
+
+§ 2º -- Aquele que obtiver acesso às informações de que trata este artigo será
+responsabilizado por seu uso indevido.
+
+§ 3º -- O consentimento referido no inciso II do § 1º não será exigido quando
+as informações forem necessárias:
+  I - à prevenção e diagnóstico médico, quando a pessoa estiver física ou 
+      legalmente incapaz, e para utilização única e exclusivamente para o 
+      tratamento médico;
+ II - à realização de estatísticas e pesquisas científicas de evidente 
+      interesse público ou geral, previstos em lei, sendo vedada a 
+      identificação da pessoa a que as informações se referirem;
+III - ao cumprimento de ordem judicial;
+ IV - à defesa de direitos humanos; ou
+  V - à proteção do interesse público e geral preponderante
+
+
+Caso o solicitante tenha interesse em obter dados do histórico dos boletins
+fornecidos, deverá apresentar solicitação formal à Secretaria da Segurança
+Pública especificando os seguintes pontos:
+
+* Os dados e informações desejados apresentando a pesquisa, estudo, projeto ou
+  objetivos que indiquem a possibilidade de enquadramento da solicitação a uma
+  ou mais hipóteses do § 3º do art. 31 da Lei nº 12.527, de 18 de novembro de
+  2011;
+* Caso seja vinculado a uma instituição de pesquisa deverá apresentar 
+  documentos comprobatórios da instituição proponente, do representante legal
+  e do coordenador responsável pela pesquisa (caso se trate de demanda de 
+  pesquisador individual, devem ser apresentados os documentos relativos à 
+  pesquisa e ao vínculo institucional do pesquisador - por ex, declaração da 
+  pós-graduação de que o demandante é aluno do programa). Após apreciação, o 
+  solicitante será cientificado sobre a possibilidade de atendimento da 
+  demanda, considerando a disponibilidade e a não restrição dos dados 
+  solicitados, atendimento este que ficará vinculado à assinatura de termo de
+  responsabilidade e confidencialidade elaborado pela SSP, referente à ciência
+  das informações pessoais a ele fornecidas.
+
+
+Descrição dos campos da planilha
+--------------------------------
+
+=======================  =====================================================
+Campo                    Descrição
+-----------------------  -----------------------------------------------------
+NUM_BO                   Ano da ocorrencia
+ANO_BO                   Número do BO
+ID_DELEGACIA             Código da delegacia responsável pelo registro da 
+                         ocorrencia
+NOME_DEPARTAMENTO        Departamento responsável pelo registro
+NOME_SECCIONAL           Delegacia Seccional responsável pelo registro
+DELEGACIA                Delegacia responsável pelo registro
+NOME_DEPARTAMENTO_CIRC   Departamento responsável pela área onde houve a 
+                         ocorrencia
+NOME_SECCIONAL_CIRC      Delegacia Seccional responsável pela área onde houve
+                         a ocorrencia
+NOME_DELEGACIA_CIRC      Delegacia responsável pela área onde houve a 
+                         ocorrencia
+ANO                      Ano do registro
+MES                      Mês do registro
+DATA_OCORRENCIA_BO       Data do fato
+HORA_OCORRENCIA_BO       Hora do fato
+FLAG_STATUS              Indica se é crime consumado ou tentado
+RUBRICA                  Natureza juridica da ocorrencia
+DESDOBRAMENTO            Desdobramentos juridicos envolvidos na ocorrencia
+CONDUTA                  Tipo de local ou circunstancia que qualifica a 
+                         ocorrencia
+LATITUDE                 Coordenadas geograficas
+LONGITUDE                Coordenadas geograficas
+CIDADE                   Municipio de registro da ocorrencia
+LOGRADOURO               Logradouro do fato
+NUMERO_LOGRADOURO        Número do Logradouro do fato
+FLAG_STATUS              Indica se é crime consumado ou tentado
+DESCR_TIPO_PESSOA        Indica o tipo de envolvimento da pessoa na ocorrencia
+CONT_PESSOA              Indica ordem de registro da pessoa no BO
+SEXO_PESSOA              Sexo da pessoa relacionada
+IDADE_PESSOA             Idade da pessoa relacionada
+COR                      Cor/raça da pessoa relacionada
+DESCR_PROFISSAO          Profissão da pessoa
+DESCR_GRAU_INSTRUCAO     Grau de intrução da pessoa
+=======================  =====================================================

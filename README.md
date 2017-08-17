@@ -1,9 +1,6 @@
 ![nublia](./img/nublia_logo.png)
 # data science playground
 
-![português](./img/flag_round_br.png) Esta página também está
-disponível em [português](LEIAME.md).
-
 [en] The data science playground is a public repository for data science
 related projects.
 Copyright (C) 2017 Sebastian Krieger
@@ -20,6 +17,10 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+![português](./img/flag_round_br.png) Esta página também está
+disponível em [português](LEIAME.md).
 
 
 ## Index

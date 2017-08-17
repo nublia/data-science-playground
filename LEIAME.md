@@ -1,9 +1,6 @@
 ![nublia](./img/nublia_logo.png)
 # data science playground
 
-![english](./img/flag_round_uk.png) This page is also available in
-[English](README.md).
-
 [pt] Este é nosso repositório público, berçário de nossos projetos
 relacionados a ciência de dados.
 
@@ -19,6 +16,10 @@ Licença Pública Geral GNU para mais detalhes.
 
 Você deve ter recebido uma cópia da Licença Pública Geral GNU junto
 com este programa. Se não, veja <http://www.gnu.org/licenses/>.
+
+
+![english](./img/flag_round_uk.png) This page is also available in
+[English](README.md).
 
 
 ## Índice
